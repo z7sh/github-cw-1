@@ -1,0 +1,5 @@
+meawar
+محمد ابراهيم 1130
+10
+football
+print("hello codekw")
