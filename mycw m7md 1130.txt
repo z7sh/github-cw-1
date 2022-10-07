@@ -1,5 +1,3 @@
-meawar
-محمد ابراهيم 1130
-10
+محمد ابراهيم يلكوي 1130
 football
 print("hello codekw")
